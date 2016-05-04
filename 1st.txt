@@ -1,9 +1,7 @@
 hdscdbk
 abcd 1234
 added block changed structure
-<<<<<<< HEAD
 bchdkdjd
-=======
 dkjndkjndknd
->>>>>>> eb62bf24a980a53343ae19a23aae0c6ca99249e9
+
 
